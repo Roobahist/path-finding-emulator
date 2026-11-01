@@ -12,7 +12,7 @@ dependencies = []
 
 [project.optional-dependencies]
 desktop = ["pygame==2.6.1"]
-dev = ["ruff==0.17.0", "build==1.6.1", "pip-audit==2.10.1"]
+dev = ["ruff==0.17.3", "build==1.6.1", "pip-audit==2.10.1"]
 
 [project.scripts]
 pathfinding-emulator = "pathfinding_emulator.app:main"
